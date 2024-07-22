@@ -1,3 +1,4 @@
+/* assets/css/style.css */
 body {
     padding-top: 56px;
 }
@@ -9,3 +10,13 @@ body {
     .section.active {
         display: block;
     }
+
+.sidebar {
+    height: 100vh;
+    position: fixed;
+}
+
+.main-content {
+    margin-left: 200px; /* Ширина боковой панели */
+    padding: 20px;
+}
