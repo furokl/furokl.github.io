@@ -1,3 +1,10 @@
+### Custom
+
+# Visual Studio
+/.vs
+
+### C++ github Template
+
 # Prerequisites
 *.d
 
