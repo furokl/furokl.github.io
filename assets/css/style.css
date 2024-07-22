@@ -1,0 +1,11 @@
+body {
+    padding-top: 56px;
+}
+
+.section {
+    display: none;
+}
+
+    .section.active {
+        display: block;
+    }
